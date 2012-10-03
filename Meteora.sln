@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteora.WPF", "Meteora.WPF\Meteora.WPF.csproj", "{F26F1116-01B3-48BE-91E7-9606156DB38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26F1116-01B3-48BE-91E7-9606156DB38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26F1116-01B3-48BE-91E7-9606156DB38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26F1116-01B3-48BE-91E7-9606156DB38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26F1116-01B3-48BE-91E7-9606156DB38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
