@@ -30,3 +30,4 @@ Your final `App.xaml` may look something like this:
 
 </Application>
 ```
+
